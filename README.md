@@ -8,6 +8,8 @@ CodeIgniter 3
 
 # Documentation
 
+Copy the logviewer library in application/libraries
+
 ```php
 //load the Log library:
 $this->load->library('logviewer');
