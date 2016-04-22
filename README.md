@@ -11,7 +11,7 @@ CodeIgniter 3
 Copy the logviewer library in application/libraries
 
 ```php
-//load the Log library:
+//load the Log library
 $this->load->library('logviewer');
 
 // get logs data
