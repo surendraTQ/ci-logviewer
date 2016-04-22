@@ -4,7 +4,7 @@ CI Logviewer is a simple Log library that shows CodeIgniter generated Log files.
 
 # Requirements
 
-CodeIgniter 2.0.3
+CodeIgniter 3
 
 # Documentation
 
